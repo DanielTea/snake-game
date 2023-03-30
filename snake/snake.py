@@ -1,1 +1,1 @@
-# Write your snake game code here
+print('Playing snake game...')
